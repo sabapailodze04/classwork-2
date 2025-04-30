@@ -6,7 +6,9 @@
 body {
   font-family: "Lexend Deca", sans-serif;
   text-transform: capitalize;
-  background-color: gray;
+  background-color: #d9d9d9;
+  max-width: 100%;
+  display: flex;
 }
 
 .box1 {
@@ -14,8 +16,8 @@ body {
   height: 509px;
   margin: 71px 496px 143px 496px;
   border-radius: 8px;
-  justify-content: space-between;
   background-color: white;
+  justify-content: center;
 }
 .boxHead {
   width: 367px;
