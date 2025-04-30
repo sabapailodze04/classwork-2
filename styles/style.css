@@ -17,7 +17,9 @@ body {
   margin: 71px 496px 143px 496px;
   border-radius: 8px;
   background-color: white;
-  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 200px;
 }
 .boxHead {
   width: 367px;
