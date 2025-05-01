@@ -13,7 +13,7 @@ body {
 
 .box1 {
   width: 367px;
-  height: 509px;
+  height: 479px;
   margin: 71px 496px 143px 496px;
   border-radius: 8px;
   background-color: white;
@@ -27,7 +27,7 @@ body {
 }
 /* header */
 .nameTag {
-  width: 335px;
+  width: 288px;
   height: 60px;
   margin: 16px 24px 16px;
   color: #5468e7;
@@ -38,52 +38,42 @@ body {
 }
 /* middle */
 .info {
-  width: 335px;
-  height: 69px;
-  font-weight: 400;
+  width: 288px;
+  height: 92px;
   font-size: 14px;
   line-height: 23px;
   letter-spacing: 1%;
   color: #232340;
-  margin: 24px 16px 48px 16px;
+  margin: 24px 16px 0px 16px;
 }
 .footerContainer {
-  display: flex;
-  align-items: center;
   width: 364px;
   height: 48px;
+  display: flex;
 }
 .profPhoto {
   width: 48px;
   height: 48px;
-  margin-right: 8px;
+  margin-left: 16px;
+  margin-bottom: 16px;
 }
 
-.short {
-  width: 159px;
-  height: 48px;
-}
-.short1 {
+.short-span {
   width: 143px;
   height: 23px;
-  font-weight: 400px;
+  margin: 12.5px 8px;
   font-size: 14px;
-  line-height: 23px;
   letter-spacing: 1%;
+  line-height: 23px;
   color: #7676b2;
 }
-.short3 {
-  width: 96px;
-  height: 30px;
-  margin-top: 10px;
-  margin-left: 10px;
-}
-.short3-p {
+
+.short-p {
   width: 80px;
   height: 23px;
-  font-weight: 400px;
   font-size: 14px;
-  line-height: 23px;
   letter-spacing: 1%;
+  line-height: 23px;
+  margin: 12.5px 8px 28px 16px;
   color: #7676b2;
 }
